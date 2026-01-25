@@ -4,3 +4,4 @@ accelerate==0.31.0
 openai
 tqdm
 scikit-learn
+sentence-transformers
