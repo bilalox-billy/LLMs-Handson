@@ -5,3 +5,5 @@ openai
 tqdm
 scikit-learn
 sentence-transformers
+bertopic
+datamapplot
