@@ -3,7 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 .python-version
-
+*.gguf
 # C extensions
 *.so
 
@@ -75,6 +75,7 @@ docs/_build/
 # PyBuilder
 .pybuilder/
 target/
+
 
 # Jupyter Notebook
 .ipynb_checkpoints
