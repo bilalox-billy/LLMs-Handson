@@ -213,3 +213,4 @@ notebooks/output/*
 notebooks/0.1.*
 notebooks/2.*.*
 notebooks/results/*
+notebooks/cosineloss_embedding_model/
