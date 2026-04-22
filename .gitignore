@@ -219,3 +219,4 @@ notebooks/augmented_embedding_model/
 notebooks/gold_only_embedding_model/
 notebooks/fine-tuned_embedding_model/
 notebooks/finetuned_embedding_model/
+notebooks/tsdae_embedding_model/
