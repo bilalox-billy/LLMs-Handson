@@ -220,3 +220,5 @@ notebooks/gold_only_embedding_model/
 notebooks/fine-tuned_embedding_model/
 notebooks/finetuned_embedding_model/
 notebooks/tsdae_embedding_model/
+notebooks/model
+notebooks/1.2.2
