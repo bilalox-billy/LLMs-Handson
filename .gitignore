@@ -215,3 +215,7 @@ notebooks/2.*.*
 notebooks/results/*
 notebooks/cosineloss_embedding_model/
 notebooks/mnrloss_embedding_model/
+notebooks/augmented_embedding_model/
+notebooks/gold_only_embedding_model/
+notebooks/fine-tuned_embedding_model/
+notebooks/finetuned_embedding_model/
