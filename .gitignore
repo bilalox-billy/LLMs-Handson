@@ -222,3 +222,4 @@ notebooks/finetuned_embedding_model/
 notebooks/tsdae_embedding_model/
 notebooks/model
 notebooks/1.2.2
+notebooks/mlm/
