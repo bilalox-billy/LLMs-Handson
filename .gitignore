@@ -224,3 +224,5 @@ notebooks/model
 notebooks/1.2.2
 notebooks/mlm/
 notebooks/ner_model/
+notebooks/TinyLlama-1.1B-qlora/
+
